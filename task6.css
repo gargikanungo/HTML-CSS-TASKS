@@ -1,0 +1,60 @@
+ table,th,td {
+    border: 2px solid black; 
+    border-collapse: separate;
+    border-radius: 10px;
+    background-color: #62bcbc;
+  }
+  table{
+    width: 100%;
+  }
+  th, td{
+    text-align: center;
+  }
+  .grid-container{
+    margin: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  .rounded-corner{
+    margin: 10px 0;
+    width: 170px;
+    height: 90px;
+    border-radius: 10px;
+    border: 3px solid rgb(101, 168, 145);
+    padding: 20px;
+  }
+  .rounded-corner2{
+    margin: 10px 0;
+    width: 170px;
+    height: 90px;
+    border-radius: 40px;
+    border: 3px solid rgb(101, 168, 145);
+    padding: 20px;
+  }
+  .rectangle{
+    margin: 10px 0;
+    width: 170px;
+    height: 90px;
+    border: 3px solid rgb(101, 168, 145);
+    padding: 20px;
+  }
+  .oval{
+    margin: 10px 0;
+    width: 170px;
+    height: 90px;
+    border-radius: 50%;
+    border: 3px solid rgb(101, 168, 145);
+    padding: 20px;
+  }
+  .rounded-corner3{
+    margin: 10px 0;
+    width: 170px;
+    height: 90px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border: 3px solid rgb(101, 168, 145);
+    padding: 20px;
+  }
