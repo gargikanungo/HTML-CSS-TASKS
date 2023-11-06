@@ -1,0 +1,97 @@
+.container {
+    background-color: rgb(224, 227, 24);
+    border: 3px solid rgba(12, 49, 236, 0.831);
+    width: 538px;
+    height: 378px;
+    margin-left: 387px;
+    padding-left: 194px;
+    box-sizing: border-box;
+    color: brown;
+}
+
+.c1 {
+    padding-right: 33px;
+}
+
+.c1 li {
+    list-style: none;
+    float: none;
+    padding: 5px 70px 5px 10px;
+    margin-right: 200px;
+}
+
+.homepage {
+    text-decoration: none;
+    position: absolute;
+    top: 54px;
+    left: 411px;
+    background-color: white;
+    padding: 5px 70px 5px 10px;
+    color: black;
+}
+
+.musings {
+    text-decoration: none;
+    position: absolute;
+    top: 89px;
+    left: 411px;
+    background-color: white;
+    padding: 5px 87px 5px 12px;
+    color: black;
+}
+
+.mytown {
+    text-decoration: none;
+    position: absolute;
+    top: 125px;
+    left: 411px;
+    background-color: white;
+    padding: 5px 82px 5px 10px;
+    color: black;
+}
+
+.links {
+    text-decoration: none;
+    position: absolute;
+    top: 162px;
+    left: 411px;
+    background-color: white;
+    padding: 5px 106px 5px 10px;
+    color: black;
+}
+
+.box1 {
+    width: 10px;
+    height: 28px;
+    background-color: black;
+    position: absolute;
+    left: 555px;
+    top: 54px;
+}
+
+.box2 {
+    width: 10px;
+    height: 28px;
+    background-color: black;
+    position: absolute;
+    left: 555px;
+    top: 89px;
+}
+
+.box3 {
+    width: 10px;
+    height: 28px;
+    background-color: black;
+    position: absolute;
+    left: 555px;
+    top: 125px;
+}
+
+.box4 {
+    width: 10px;
+    height: 28px;
+    background-color: black;
+    position: absolute;
+    left: 553px;
+    top: 162px;
+}

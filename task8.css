@@ -1,0 +1,20 @@
+table{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    border-collapse: collapse;
+}
+.heading{
+    text-align: left;
+    font-size: large;
+    color: white;
+    background-color: rgb(64, 168, 64);
+}
+.odd{
+    background-color: rgb(160, 156, 156);
+    color: black;
+}
+.even{
+    background-color: whitesmoke;
+    color: black;
+}

@@ -1,0 +1,57 @@
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 300px;
+    margin: 0 auto;
+}
+.image{
+    text-align: center;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="checkbox" i] {
+    background-color: initial;
+    cursor: default;
+    appearance: auto;
+    box-sizing: border-box;
+    margin: 3px 3px 3px 4px;
+    padding: initial;
+    border: initial;
+}
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 4px;
+}
+.forgotpw {
+    text-align: right;
+}
+.cancelbtn {
+    position: relative;
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color: red;
+    color: #f3efef;
+    cursor: auto;
+}

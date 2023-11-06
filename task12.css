@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(209, 163, 12);
+   }
+ 
+   /* Form box */
+   .form-box {
+    background-color: rgb(216, 206, 120);
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+   }
+ 
+   /* Label */
+   label {
+    float: left;
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+   }
+ 
+   /* Input */
+   input {
+    width: 250px;
+    padding: 10px;
+   }
+ 
+   /* Button */
+   button {
+    background-color: #ffffff;
+    color: rgb(3, 3, 3);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+   }
